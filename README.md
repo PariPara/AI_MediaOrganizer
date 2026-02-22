@@ -1,11 +1,3 @@
-The text I provided in the previous turn was structured for Markdown, but the way it’s appearing in your message above has lost its formatting (the headers, code blocks, and lists).
-
-For a file to work correctly as a `README.md` on GitHub, it needs specific **Markdown syntax** (like `#` for titles and ````` for code).
-
-Here is the exact, raw Markdown code. You should **copy the block below** and paste it into a file named `README.md`.
-
----
-
 ```markdown
 # 📂 Local AI-Media-Organizer (Vision Edition)
 
